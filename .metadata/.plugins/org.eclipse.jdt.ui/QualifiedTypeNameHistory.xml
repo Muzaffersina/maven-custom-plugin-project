@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.apache.maven.plugin.AbstractMojo"/>
+    <fullyQualifiedTypeName name="org.apache.maven.plugins.annotations.Mojo"/>
+    <fullyQualifiedTypeName name="org.apache.maven.project.MavenProject"/>
+    <fullyQualifiedTypeName name="org.apache.maven.model.Dependency"/>
+    <fullyQualifiedTypeName name="org.apache.maven.model.Plugin"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.apache.maven.model.Developer"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.apache.maven.model.ActivationProperty"/>
+    <fullyQualifiedTypeName name="org.apache.maven.plugins.annotations.Parameter"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>
